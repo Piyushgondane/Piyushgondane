@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piyushgondane
-- 👀 I’m interested in Coding, Embedded System, Technology and Problem Solving
+- 👀 I’m interested in Coding,Embedded System,Technology,Problem Solving and Photography 
 - 🌱 I’m currently learning Python
 - 📧 Email: piyushgondane72@gmail.com
 - 💬 Discord: mr.piyushgondane5223
